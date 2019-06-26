@@ -1,12 +1,56 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"posting": [{
+		"posting_set_id": 5,
+		"division_number": "17",
+		"run_id": "7810",
+		"posting_date": "2019-06-26T13:16:17",
+		"posting_type": null,
+		"currency": "USD",
+		"company_code": "101",
+		"creation_timestamp": "2019-06-26T13:16:17",
+		"modified_timestamp": "2019-06-26T13:16:17",
+		"created_by": "vivek.srinivasan@nucor.com",
+		"modified_by": "vivek.srinivasan@nucor.com",
+		"process_status": "NEW",
+		"process_message": null,
+		"posting_details": [{
+			"posting_detail_id": 4,
+			"posting_set_id": 5,
+			"run_id": "7810",
+			"sap_gl_code": "019800908000",
+			"sap_gl_desc": "CT Accumulative",
+			"sap_cost_center": "1090",
+			"accrual": null,
+			"debit_amount": 0,
+			"credit_amount": 1050,
+			"oracle_gl_code": null,
+			"oracle_ledger_name": null,
+			"oracle_ledger_id": null,
+			"creation_timestamp": "2019-06-26T13:16:48",
+			"modified_timestamp": "2019-06-26T13:16:48",
+			"created_by": "vivek.srinivasan@nucor.com",
+			"modified_by": "vivek.srinivasan@nucor.com",
+			"process_status": "NEW",
+			"process_message": null
+		}, {
+			"posting_detail_id": 5,
+			"posting_set_id": 5,
+			"run_id": "7810",
+			"sap_gl_code": "019800908000",
+			"sap_gl_desc": "CT Accumulative",
+			"sap_cost_center": "1090",
+			"accrual": null,
+			"debit_amount": 1050,
+			"credit_amount": 0,
+			"oracle_gl_code": null,
+			"oracle_ledger_name": null,
+			"oracle_ledger_id": null,
+			"creation_timestamp": "2019-06-26T13:16:56",
+			"modified_timestamp": "2019-06-26T13:16:56",
+			"created_by": "vivek.srinivasan@nucor.com",
+			"modified_by": "vivek.srinivasan@nucor.com",
+			"process_status": "NEW",
+			"process_message": null
+		}]
+	}]
 }
-[{"posting_set_id":5,"division_number":"17","run_id":"7810","posting_date":"2019-06-26T13:16:17","posting_type":null,"currency":"USD","company_code":"101","creation_timestamp":"2019-06-26T13:16:17","modified_timestamp":"2019-06-26T13:16:17","created_by":"vivek.srinivasan@nucor.com","modified_by":"vivek.srinivasan@nucor.com","process_status":"NEW","process_message":null,"posting_details":[{"posting_detail_id":4,"posting_set_id":5,"run_id":"7810","sap_gl_code":"019800908000","sap_gl_desc":"CT Accumulative","sap_cost_center":"1090","accrual":null,"debit_amount":0,"credit_amount":1050,"oracle_gl_code":null,"oracle_ledger_name":null,"oracle_ledger_id":null,"creation_timestamp":"2019-06-26T13:16:48","modified_timestamp":"2019-06-26T13:16:48","created_by":"vivek.srinivasan@nucor.com","modified_by":"vivek.srinivasan@nucor.com","process_status":"NEW","process_message":null},{"posting_detail_id":5,"posting_set_id":5,"run_id":"7810","sap_gl_code":"019800908000","sap_gl_desc":"CT Accumulative","sap_cost_center":"1090","accrual":null,"debit_amount":1050,"credit_amount":0,"oracle_gl_code":null,"oracle_ledger_name":null,"oracle_ledger_id":null,"creation_timestamp":"2019-06-26T13:16:56","modified_timestamp":"2019-06-26T13:16:56","created_by":"vivek.srinivasan@nucor.com","modified_by":"vivek.srinivasan@nucor.com","process_status":"NEW","process_message":null}]}]
